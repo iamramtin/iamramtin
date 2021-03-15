@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramtin Mesgari!
 - 👀 I’m interested in mobile development and mathematics
 - 🌱 I’m currently learning Wordpress development
-- 💞️ I’m looking to collaborate on full-stack startup project
+- 💞️ I’m looking to collaborate on a full-stack startup project
 - 📫 How to reach me ramtin.mesgari@gmail.com
 
 <!---
