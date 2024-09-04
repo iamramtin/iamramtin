@@ -10,9 +10,9 @@ Currently delving deeper into Web3, exploring functional languages and building 
 - 🎨 Advocating for strong UI/UX design principles in all my projects.
 
 ## 🧑🏻‍💻 Tech Stack
-- **Languages:** TypeScript, NodeJS, Angular, React, Java, Kotlin, Rust (getting there)
+- **Languages:** TypeScript, NodeJS, Python, Java, Angular, React, Kotlin, Rust (getting there)
 - **Infrastructure:** AWS, GCP, Kubernetes, Terraform
-- **Blockchain:** Solana, NEAR
+- **Blockchain:** Solana, Ethereum, NEAR
 
 ## 🧠 Work Highlights
 - Designed and developed customer-facing portals for merchants to manage transaction data and analytics.
