@@ -1,11 +1,10 @@
 ### 🧑🏻‍💻 Software Engineer
-Primarily backend, occasionally full-stack. Passionate about solutions architecture and user-centric design.
+Primarily backend, sometimes full-stack. Interested infrastructure, high-performance systems, and intuitive user-centric design.
 
 #### 👾 Tech stack
-- **Languages:** Usually Node.js and Python, occasional adventures in JVM-based languages (upon request), and some frontend frameworks
-- **Infrastructure:** AWS, GCP, Kubernetes, Docker, Terraform
-- **Blockchain:** Solana, Ethereum, NEAR
-
+- **Languages:** Node.js and Python usually, Rust and Go more recently, occasional adventures in JVM-based languages (with hesitance), and some frontend frameworks like React.js and Angular
+- **Infrastructure & Platforms:** AWS, GCP, Kubernetes, Docker, Terraform, Solana
+  
 \
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamramtin&theme=algolia&margin-w=40&title=Commits&title=Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
