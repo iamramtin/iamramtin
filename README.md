@@ -1,5 +1,5 @@
 ### 🧑🏻‍💻 Software Engineer
-Primarily backend, sometimes full-stack. Interested infrastructure, high-performance systems, and intuitive user-centric design.
+Primarily backend, sometimes full-stack. Interested in infrastructure, high-performance systems, and intuitive user-centric design.
 
 #### 👾 Tech stack
 - **Languages:** Node.js and Python usually, Rust and Go more recently, occasional adventures in JVM-based languages (with hesitance), and some frontend frameworks like React.js and Angular
