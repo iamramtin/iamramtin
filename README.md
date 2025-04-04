@@ -3,7 +3,7 @@ Primarily backend, sometimes full-stack. Interested in infrastructure, high-perf
 
 #### 👾 Tech stack
 - **Languages:** Node.js and Python usually, Rust and Go more recently, occasional adventures in JVM-based languages (with hesitance), and some frontend frameworks like React.js and Angular
-- **Infrastructure & Platforms:** AWS, GCP, Kubernetes, Docker, Terraform, Solana
+- **Infrastructure & Platforms:** AWS, GCP, Kubernetes, Docker, Terraform, Solana, NEAR
   
 \
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamramtin&theme=algolia&margin-w=40&title=Commits&title=Experience)](https://github.com/ryo-ma/github-profile-trophy)
