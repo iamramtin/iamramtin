@@ -1,19 +1,13 @@
 <h1 align="center">🧑🏻‍💻 Ramtin Mesgari</h1>
-<p align="center">
-  Fullstack Engineer • OSS Contributor • Polyglot Dev
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramtinmesgari">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/ramteeeeeeeen">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter">
   </a>
 </p>
-
-
-### Tech Stack
 
 **Languages**  
 `TypeScript` • `Go` • `Rust` • `Python`
